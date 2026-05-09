@@ -13,7 +13,7 @@ Responsive design review and guidance skill for Claude Code. Covers strategy (mo
 
 ```bash
 # Clone into ~/.claude/skills/
-git clone https://github.com/<your-username>/responsive-design.git \
+git clone https://github.com/francisxjun-commits/responsive-design.git \
   ~/.claude/skills/responsive-design
 ```
 
